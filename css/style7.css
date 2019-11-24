@@ -1,0 +1,23 @@
+h2{
+    text-align: center;
+    color: palevioletred;
+}
+#mục{
+    color: white;
+    background-color: palevioletred;
+}
+image{
+    src: url(hoa.jpg);
+    height: 25% ;
+    align-content: space-around;
+}
+.all{
+    display: flex;
+}
+.t{
+    width: 40%;
+}
+.p{
+    width: 60%;
+}
+img{width: 100%;}
