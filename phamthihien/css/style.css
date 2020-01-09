@@ -1,0 +1,204 @@
+
+body{
+    background-color: gray !important;
+    
+}
+.nav{
+    background-image: url(http://truongnoivu.edu.vn/images/img_04.jpg);
+    height: 41px;
+}
+.nav ul {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    padding-left: 0px;
+}
+.container{
+    max-width: 1011px !important;
+}  
+.nav ul li a  {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+    line-height: 3;
+    text-decoration: none;
+
+} 
+.nav .language {
+    /* margin-left: 75px; */
+}
+.nav .language a p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav .language a {
+    line-height: 2;
+}
+.main{
+    display: flex;
+}
+.main .left{
+    width: 20%;
+}
+.main .right{
+    width: 80%;
+}
+.left-top ul li {
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.left-top ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    display: inline;
+    
+}
+.left-top ul{
+    padding-left: 0;
+    margin-top: 10px;
+}
+.date {
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+.left-first ul li{
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.left-first ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    display: inline;
+}
+.left-first ul{
+    padding-left: 0;
+    margin-top: 10px;
+}
+.traCuu{
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+.left-second ul li{
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.left-second ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    display: inline;
+}
+.left-second ul{
+    padding-left: 0;
+    margin-top: 10px;
+}
+.thongTin{
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+.left-three{
+    border: 1px solid rgb(229, 229, 229);
+    
+}
+.left-three ul li{
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.left-three ul{
+    padding-left: 0;
+    margin-top: 10px;
+}
+.lienKet{
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+.left-four ul{
+    padding-left: 0;
+    margin-top: 10px;
+}
+.left-four ul li{
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.thongKe{
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+}
+.left-four-content{
+    font-size: 13px;
+    padding-left: 10px;
+    
+}
+.right-content{
+    display: flex;
+}
+.right-banner{
+    width: 80%;
+    margin-left: 10px;
+    border: 3px solid rgb(88, 88, 185);
+}
+.right-left{
+    width: 80%;
+    margin-left: 10px;
+}
+.right-right{
+    width: 20%;
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+    margin-left: 10px;
+}
+.right-right ul li{
+    list-style: none;
+    border: 1px solid rgb(229, 229, 229);
+}
+.right-right ul li a{
+    text-decoration: none;
+    font-size: 13px;
+    display: inline;
+}
+.right-right ul{
+    margin-top: 10px;
+    padding-left: 0;
+}
+.hr1{
+    margin-top: -6px !important;
+    margin-bottom: 0 !important;
+    margin-left: 122px;
+    color: gray;
+    border-top: 1px solid rgb(83, 82, 82) !important;
+}
+.content{
+    font-size: 14px;
+    padding-top: 10px;
+}
+.search{
+    border: 1px solid rgb(229, 229, 229);
+    border: 0px;
+}
+#timKiem{
+    width: 70%;
+    height: 18px;
+    margin-left: 15px;
+}
+.img a img{
+    width: 153px;
+    margin: auto;
+    border: 1px solid rgb(83, 82, 82);
+}
+.ttc {
+    display: flex;
+}
+.ttc .ri p {
+    font-size: 12px;
+    margin-left: 10px;
+}
+.ctk{
+    font-size: 12px;
+    color: black;
+    line-height: 0;
+}
+.tnt{
+    color: white; font-weight: bold;text-align: center; font-size: 13px;
+}
+
+
